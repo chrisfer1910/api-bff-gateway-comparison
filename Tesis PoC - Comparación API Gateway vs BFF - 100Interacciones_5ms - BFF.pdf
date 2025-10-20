@@ -1,0 +1,449 @@
+{
+	"id": "7b808103-d3c2-4ad6-8b43-ded374de285f",
+	"name": "Tesis PoC - Comparación API Gateway vs BFF",
+	"timestamp": "2025-05-26T02:07:33.848Z",
+	"collection_id": "5816333-244f6a96-11f5-4f06-8737-ad6029d64892",
+	"folder_id": 0,
+	"environment_id": "0",
+	"totalPass": 100,
+	"delay": "5",
+	"persist": true,
+	"status": "finished",
+	"startedAt": "2025-05-26T02:07:24.288Z",
+	"totalFail": 0,
+	"results": [
+		{
+			"id": "bda0d5c8-9b82-4b04-84f2-32712eb10048",
+			"name": "GET desde Web BFF",
+			"url": "http://localhost:3100/web/reservas",
+			"time": 7,
+			"responseCode": {
+				"code": 200,
+				"name": "OK"
+			},
+			"tests": {
+				"Código 200 OK - BFF": true
+			},
+			"testPassFailCounts": {
+				"Código 200 OK - BFF": {
+					"pass": 100,
+					"fail": 0
+				}
+			},
+			"times": [
+				11,
+				6,
+				6,
+				6,
+				5,
+				5,
+				9,
+				4,
+				5,
+				7,
+				10,
+				9,
+				4,
+				5,
+				4,
+				4,
+				4,
+				5,
+				4,
+				4,
+				4,
+				4,
+				4,
+				6,
+				3,
+				5,
+				5,
+				4,
+				3,
+				4,
+				5,
+				3,
+				7,
+				5,
+				5,
+				5,
+				3,
+				3,
+				4,
+				5,
+				4,
+				4,
+				5,
+				4,
+				4,
+				5,
+				3,
+				3,
+				4,
+				3,
+				5,
+				4,
+				4,
+				5,
+				4,
+				5,
+				5,
+				5,
+				3,
+				6,
+				4,
+				3,
+				3,
+				4,
+				4,
+				3,
+				4,
+				3,
+				4,
+				5,
+				3,
+				3,
+				3,
+				4,
+				4,
+				5,
+				3,
+				3,
+				4,
+				3,
+				4,
+				3,
+				4,
+				6,
+				3,
+				3,
+				3,
+				3,
+				3,
+				3,
+				3,
+				3,
+				5,
+				3,
+				5,
+				4,
+				5,
+				4,
+				5,
+				7
+			],
+			"allTests": [
+				{
+					"Código 200 OK - BFF": true
+				},
+				{
+					"Código 200 OK - BFF": true
+				},
+				{
+					"Código 200 OK - BFF": true
+				},
+				{
+					"Código 200 OK - BFF": true
+				},
+				{
+					"Código 200 OK - BFF": true
+				},
+				{
+					"Código 200 OK - BFF": true
+				},
+				{
+					"Código 200 OK - BFF": true
+				},
+				{
+					"Código 200 OK - BFF": true
+				},
+				{
+					"Código 200 OK - BFF": true
+				},
+				{
+					"Código 200 OK - BFF": true
+				},
+				{
+					"Código 200 OK - BFF": true
+				},
+				{
+					"Código 200 OK - BFF": true
+				},
+				{
+					"Código 200 OK - BFF": true
+				},
+				{
+					"Código 200 OK - BFF": true
+				},
+				{
+					"Código 200 OK - BFF": true
+				},
+				{
+					"Código 200 OK - BFF": true
+				},
+				{
+					"Código 200 OK - BFF": true
+				},
+				{
+					"Código 200 OK - BFF": true
+				},
+				{
+					"Código 200 OK - BFF": true
+				},
+				{
+					"Código 200 OK - BFF": true
+				},
+				{
+					"Código 200 OK - BFF": true
+				},
+				{
+					"Código 200 OK - BFF": true
+				},
+				{
+					"Código 200 OK - BFF": true
+				},
+				{
+					"Código 200 OK - BFF": true
+				},
+				{
+					"Código 200 OK - BFF": true
+				},
+				{
+					"Código 200 OK - BFF": true
+				},
+				{
+					"Código 200 OK - BFF": true
+				},
+				{
+					"Código 200 OK - BFF": true
+				},
+				{
+					"Código 200 OK - BFF": true
+				},
+				{
+					"Código 200 OK - BFF": true
+				},
+				{
+					"Código 200 OK - BFF": true
+				},
+				{
+					"Código 200 OK - BFF": true
+				},
+				{
+					"Código 200 OK - BFF": true
+				},
+				{
+					"Código 200 OK - BFF": true
+				},
+				{
+					"Código 200 OK - BFF": true
+				},
+				{
+					"Código 200 OK - BFF": true
+				},
+				{
+					"Código 200 OK - BFF": true
+				},
+				{
+					"Código 200 OK - BFF": true
+				},
+				{
+					"Código 200 OK - BFF": true
+				},
+				{
+					"Código 200 OK - BFF": true
+				},
+				{
+					"Código 200 OK - BFF": true
+				},
+				{
+					"Código 200 OK - BFF": true
+				},
+				{
+					"Código 200 OK - BFF": true
+				},
+				{
+					"Código 200 OK - BFF": true
+				},
+				{
+					"Código 200 OK - BFF": true
+				},
+				{
+					"Código 200 OK - BFF": true
+				},
+				{
+					"Código 200 OK - BFF": true
+				},
+				{
+					"Código 200 OK - BFF": true
+				},
+				{
+					"Código 200 OK - BFF": true
+				},
+				{
+					"Código 200 OK - BFF": true
+				},
+				{
+					"Código 200 OK - BFF": true
+				},
+				{
+					"Código 200 OK - BFF": true
+				},
+				{
+					"Código 200 OK - BFF": true
+				},
+				{
+					"Código 200 OK - BFF": true
+				},
+				{
+					"Código 200 OK - BFF": true
+				},
+				{
+					"Código 200 OK - BFF": true
+				},
+				{
+					"Código 200 OK - BFF": true
+				},
+				{
+					"Código 200 OK - BFF": true
+				},
+				{
+					"Código 200 OK - BFF": true
+				},
+				{
+					"Código 200 OK - BFF": true
+				},
+				{
+					"Código 200 OK - BFF": true
+				},
+				{
+					"Código 200 OK - BFF": true
+				},
+				{
+					"Código 200 OK - BFF": true
+				},
+				{
+					"Código 200 OK - BFF": true
+				},
+				{
+					"Código 200 OK - BFF": true
+				},
+				{
+					"Código 200 OK - BFF": true
+				},
+				{
+					"Código 200 OK - BFF": true
+				},
+				{
+					"Código 200 OK - BFF": true
+				},
+				{
+					"Código 200 OK - BFF": true
+				},
+				{
+					"Código 200 OK - BFF": true
+				},
+				{
+					"Código 200 OK - BFF": true
+				},
+				{
+					"Código 200 OK - BFF": true
+				},
+				{
+					"Código 200 OK - BFF": true
+				},
+				{
+					"Código 200 OK - BFF": true
+				},
+				{
+					"Código 200 OK - BFF": true
+				},
+				{
+					"Código 200 OK - BFF": true
+				},
+				{
+					"Código 200 OK - BFF": true
+				},
+				{
+					"Código 200 OK - BFF": true
+				},
+				{
+					"Código 200 OK - BFF": true
+				},
+				{
+					"Código 200 OK - BFF": true
+				},
+				{
+					"Código 200 OK - BFF": true
+				},
+				{
+					"Código 200 OK - BFF": true
+				},
+				{
+					"Código 200 OK - BFF": true
+				},
+				{
+					"Código 200 OK - BFF": true
+				},
+				{
+					"Código 200 OK - BFF": true
+				},
+				{
+					"Código 200 OK - BFF": true
+				},
+				{
+					"Código 200 OK - BFF": true
+				},
+				{
+					"Código 200 OK - BFF": true
+				},
+				{
+					"Código 200 OK - BFF": true
+				},
+				{
+					"Código 200 OK - BFF": true
+				},
+				{
+					"Código 200 OK - BFF": true
+				},
+				{
+					"Código 200 OK - BFF": true
+				},
+				{
+					"Código 200 OK - BFF": true
+				},
+				{
+					"Código 200 OK - BFF": true
+				},
+				{
+					"Código 200 OK - BFF": true
+				},
+				{
+					"Código 200 OK - BFF": true
+				},
+				{
+					"Código 200 OK - BFF": true
+				},
+				{
+					"Código 200 OK - BFF": true
+				},
+				{
+					"Código 200 OK - BFF": true
+				},
+				{
+					"Código 200 OK - BFF": true
+				}
+			]
+		}
+	],
+	"count": 100,
+	"totalTime": 440,
+	"collection": {
+		"requests": [
+			{
+				"id": "bda0d5c8-9b82-4b04-84f2-32712eb10048",
+				"method": "GET"
+			}
+		]
+	}
+}

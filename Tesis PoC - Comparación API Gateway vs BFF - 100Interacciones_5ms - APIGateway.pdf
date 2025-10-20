@@ -1,0 +1,449 @@
+{
+	"id": "3dc61ac4-9c28-4ed6-a95e-cb6284ded8b9",
+	"name": "Tesis PoC - Comparación API Gateway vs BFF",
+	"timestamp": "2025-05-26T02:03:11.562Z",
+	"collection_id": "5816333-244f6a96-11f5-4f06-8737-ad6029d64892",
+	"folder_id": 0,
+	"environment_id": "0",
+	"totalPass": 100,
+	"delay": "5",
+	"persist": true,
+	"status": "finished",
+	"startedAt": "2025-05-26T02:03:01.634Z",
+	"totalFail": 0,
+	"results": [
+		{
+			"id": "d8814125-bc04-490a-b31d-222d88506384",
+			"name": "GET desde API Gateway",
+			"url": "http://localhost:3000/api/reservas",
+			"time": 3,
+			"responseCode": {
+				"code": 200,
+				"name": "OK"
+			},
+			"tests": {
+				"Código 200 OK - APIGateway": true
+			},
+			"testPassFailCounts": {
+				"Código 200 OK - APIGateway": {
+					"pass": 100,
+					"fail": 0
+				}
+			},
+			"times": [
+				7,
+				3,
+				3,
+				4,
+				4,
+				6,
+				3,
+				5,
+				3,
+				5,
+				5,
+				3,
+				5,
+				4,
+				5,
+				3,
+				6,
+				5,
+				3,
+				4,
+				3,
+				4,
+				3,
+				4,
+				6,
+				5,
+				11,
+				4,
+				3,
+				3,
+				4,
+				4,
+				4,
+				5,
+				4,
+				4,
+				4,
+				4,
+				4,
+				3,
+				3,
+				3,
+				4,
+				3,
+				3,
+				4,
+				4,
+				3,
+				5,
+				4,
+				3,
+				3,
+				4,
+				5,
+				5,
+				4,
+				3,
+				3,
+				4,
+				4,
+				8,
+				5,
+				4,
+				5,
+				4,
+				3,
+				4,
+				6,
+				4,
+				3,
+				4,
+				3,
+				3,
+				4,
+				5,
+				4,
+				3,
+				3,
+				3,
+				4,
+				4,
+				4,
+				7,
+				5,
+				4,
+				6,
+				4,
+				3,
+				4,
+				5,
+				4,
+				3,
+				4,
+				5,
+				3,
+				3,
+				3,
+				5,
+				4,
+				3
+			],
+			"allTests": [
+				{
+					"Código 200 OK - APIGateway": true
+				},
+				{
+					"Código 200 OK - APIGateway": true
+				},
+				{
+					"Código 200 OK - APIGateway": true
+				},
+				{
+					"Código 200 OK - APIGateway": true
+				},
+				{
+					"Código 200 OK - APIGateway": true
+				},
+				{
+					"Código 200 OK - APIGateway": true
+				},
+				{
+					"Código 200 OK - APIGateway": true
+				},
+				{
+					"Código 200 OK - APIGateway": true
+				},
+				{
+					"Código 200 OK - APIGateway": true
+				},
+				{
+					"Código 200 OK - APIGateway": true
+				},
+				{
+					"Código 200 OK - APIGateway": true
+				},
+				{
+					"Código 200 OK - APIGateway": true
+				},
+				{
+					"Código 200 OK - APIGateway": true
+				},
+				{
+					"Código 200 OK - APIGateway": true
+				},
+				{
+					"Código 200 OK - APIGateway": true
+				},
+				{
+					"Código 200 OK - APIGateway": true
+				},
+				{
+					"Código 200 OK - APIGateway": true
+				},
+				{
+					"Código 200 OK - APIGateway": true
+				},
+				{
+					"Código 200 OK - APIGateway": true
+				},
+				{
+					"Código 200 OK - APIGateway": true
+				},
+				{
+					"Código 200 OK - APIGateway": true
+				},
+				{
+					"Código 200 OK - APIGateway": true
+				},
+				{
+					"Código 200 OK - APIGateway": true
+				},
+				{
+					"Código 200 OK - APIGateway": true
+				},
+				{
+					"Código 200 OK - APIGateway": true
+				},
+				{
+					"Código 200 OK - APIGateway": true
+				},
+				{
+					"Código 200 OK - APIGateway": true
+				},
+				{
+					"Código 200 OK - APIGateway": true
+				},
+				{
+					"Código 200 OK - APIGateway": true
+				},
+				{
+					"Código 200 OK - APIGateway": true
+				},
+				{
+					"Código 200 OK - APIGateway": true
+				},
+				{
+					"Código 200 OK - APIGateway": true
+				},
+				{
+					"Código 200 OK - APIGateway": true
+				},
+				{
+					"Código 200 OK - APIGateway": true
+				},
+				{
+					"Código 200 OK - APIGateway": true
+				},
+				{
+					"Código 200 OK - APIGateway": true
+				},
+				{
+					"Código 200 OK - APIGateway": true
+				},
+				{
+					"Código 200 OK - APIGateway": true
+				},
+				{
+					"Código 200 OK - APIGateway": true
+				},
+				{
+					"Código 200 OK - APIGateway": true
+				},
+				{
+					"Código 200 OK - APIGateway": true
+				},
+				{
+					"Código 200 OK - APIGateway": true
+				},
+				{
+					"Código 200 OK - APIGateway": true
+				},
+				{
+					"Código 200 OK - APIGateway": true
+				},
+				{
+					"Código 200 OK - APIGateway": true
+				},
+				{
+					"Código 200 OK - APIGateway": true
+				},
+				{
+					"Código 200 OK - APIGateway": true
+				},
+				{
+					"Código 200 OK - APIGateway": true
+				},
+				{
+					"Código 200 OK - APIGateway": true
+				},
+				{
+					"Código 200 OK - APIGateway": true
+				},
+				{
+					"Código 200 OK - APIGateway": true
+				},
+				{
+					"Código 200 OK - APIGateway": true
+				},
+				{
+					"Código 200 OK - APIGateway": true
+				},
+				{
+					"Código 200 OK - APIGateway": true
+				},
+				{
+					"Código 200 OK - APIGateway": true
+				},
+				{
+					"Código 200 OK - APIGateway": true
+				},
+				{
+					"Código 200 OK - APIGateway": true
+				},
+				{
+					"Código 200 OK - APIGateway": true
+				},
+				{
+					"Código 200 OK - APIGateway": true
+				},
+				{
+					"Código 200 OK - APIGateway": true
+				},
+				{
+					"Código 200 OK - APIGateway": true
+				},
+				{
+					"Código 200 OK - APIGateway": true
+				},
+				{
+					"Código 200 OK - APIGateway": true
+				},
+				{
+					"Código 200 OK - APIGateway": true
+				},
+				{
+					"Código 200 OK - APIGateway": true
+				},
+				{
+					"Código 200 OK - APIGateway": true
+				},
+				{
+					"Código 200 OK - APIGateway": true
+				},
+				{
+					"Código 200 OK - APIGateway": true
+				},
+				{
+					"Código 200 OK - APIGateway": true
+				},
+				{
+					"Código 200 OK - APIGateway": true
+				},
+				{
+					"Código 200 OK - APIGateway": true
+				},
+				{
+					"Código 200 OK - APIGateway": true
+				},
+				{
+					"Código 200 OK - APIGateway": true
+				},
+				{
+					"Código 200 OK - APIGateway": true
+				},
+				{
+					"Código 200 OK - APIGateway": true
+				},
+				{
+					"Código 200 OK - APIGateway": true
+				},
+				{
+					"Código 200 OK - APIGateway": true
+				},
+				{
+					"Código 200 OK - APIGateway": true
+				},
+				{
+					"Código 200 OK - APIGateway": true
+				},
+				{
+					"Código 200 OK - APIGateway": true
+				},
+				{
+					"Código 200 OK - APIGateway": true
+				},
+				{
+					"Código 200 OK - APIGateway": true
+				},
+				{
+					"Código 200 OK - APIGateway": true
+				},
+				{
+					"Código 200 OK - APIGateway": true
+				},
+				{
+					"Código 200 OK - APIGateway": true
+				},
+				{
+					"Código 200 OK - APIGateway": true
+				},
+				{
+					"Código 200 OK - APIGateway": true
+				},
+				{
+					"Código 200 OK - APIGateway": true
+				},
+				{
+					"Código 200 OK - APIGateway": true
+				},
+				{
+					"Código 200 OK - APIGateway": true
+				},
+				{
+					"Código 200 OK - APIGateway": true
+				},
+				{
+					"Código 200 OK - APIGateway": true
+				},
+				{
+					"Código 200 OK - APIGateway": true
+				},
+				{
+					"Código 200 OK - APIGateway": true
+				},
+				{
+					"Código 200 OK - APIGateway": true
+				},
+				{
+					"Código 200 OK - APIGateway": true
+				},
+				{
+					"Código 200 OK - APIGateway": true
+				},
+				{
+					"Código 200 OK - APIGateway": true
+				},
+				{
+					"Código 200 OK - APIGateway": true
+				},
+				{
+					"Código 200 OK - APIGateway": true
+				}
+			]
+		}
+	],
+	"count": 100,
+	"totalTime": 411,
+	"collection": {
+		"requests": [
+			{
+				"id": "d8814125-bc04-490a-b31d-222d88506384",
+				"method": "GET"
+			}
+		]
+	}
+}
